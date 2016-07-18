@@ -49,11 +49,12 @@ In the above routine, I also calculate a few attributes that are not available i
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/hist_pickups.png" />
 <br>
 
-In the next figure, let’s look at the average trip fare amount vs. hours of a day for a trip originating from each location. Interestingly, trips from the City Hall seems to have a higher fare amount compared to the other parts of the city compared here. Not surprisingly, trip fares from JFK tops among the six. 
+In the next figure, let’s look at the average trip fare amount vs. hours of a day for a trip originating from each location. Interestingly, trips from the City Hall seems to have a higher fare amount compared to the other parts of the city compared here. Not surprisingly, trip fares from JFK tops among the six locations, as it is located far away from the city center. Does it suggest that the JFK airport is ideal place for high-fare ride?
 
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/avg_fare.png" />
 <br>
+
 
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/avg_tripdist.png" />
