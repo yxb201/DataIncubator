@@ -68,7 +68,7 @@ Lastly, we take a look at the average payout per min ratio. This shows a complet
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/payout_per_min.png" />
 <br>
 
-In Closing
+## In Closing
 From the preliminary data exploration above, I am convinced that there is enough spatial-temporal heterogeneity in the data that a driver can take advantage of when seeking the next passenger. Yet, there is still other factors such as traffic congestion, trip speed that I have not got the time to touch on. 
 
 
