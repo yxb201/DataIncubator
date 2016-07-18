@@ -1,7 +1,4 @@
-# DataIncubator
-Data Incubator Project Proposal
-
-
+# Data Incubator Project Proposal
 
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/hist_pickups.png" />
