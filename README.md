@@ -56,16 +56,19 @@ In the next figure, let’s look at the average trip fare amount vs. hours of a 
 <br>
 
 
-<br>
-<img  src = "https://github.com/yxb201/DataIncubator/blob/master/avg_tripdist.png" />
-<br>
+In the following figure, we will take a look at the average payout per mile vs. hours of day for trips from these six locations. Again trips from Times Square have the highest ratio of revenue vs. mileage with $8 per mile during rush hour. On the other hand, JFK has lowest overall payout per mile ratio. This can be explained by that yellow cabs charge a flat for trips to Manhattan. But this doesn’t show the whole picture either, as the high payout per mile ratio near Times Square can be caused by heavy traffic in the Midtown. 
 
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/payout_per_mile.png" />
 <br>
 
+Lastly, we take a look at the average payout per min ratio. This shows a completely opposite story of trips from Times Square with the lowest average payout per min.  On the other hand, low fare rides in the Upper East gives an overall higher ratio. In particular, this ratio increases dramatically in the late night. Maybe it’s a good to pick a passenger from JFK in those times. 
+
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/payout_per_min.png" />
 <br>
+
+In Closing
+From the preliminary data exploration above, I am convinced that there is enough spatial-temporal heterogeneity in the data that a driver can take advantage of when seeking the next passenger. Yet, there is still other factors such as traffic congestion, trip speed that I have not got the time to touch on. 
 
 
