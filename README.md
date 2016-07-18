@@ -43,6 +43,8 @@ def nyctaxi_data(LAT, LONG, RADIUS,df_trip):
     return df_new
 ```
 
+In the above routine, I also calculate a few attributes that are not available in the data to aid my analysis. For example, “payout_per_min” measures the revenue per minute of a trip.  My analysis focuses on six representative locations of the city: Times Square, Upper East, City Hall, East Village, JFK and Williamsburg. In the following figure, I plot a histogram of the number of cab pickups in Dec 2015 near these six locations vs. the hours of a day. We observe that the number of pickups near Times Square tops the six locations followed by the Upper East. In particular, Williamsburg seems to have a surprisingly low number of pickups given its popular bars and restaurants. One possible explanation is that taxi service in Williamsburg is mainly covered by the green cabs since its introduction in 2013.  It is also interesting that how the number of pickups vary over the course of a day in each location. For example, it is obvious that 
+
 <br>
 <img  src = "https://github.com/yxb201/DataIncubator/blob/master/hist_pickups.png" />
 <br>
